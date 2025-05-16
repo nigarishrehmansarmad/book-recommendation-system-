@@ -62,3 +62,4 @@ This project implements a hybrid Book Recommendation System using the [Book-Cros
 - [@Khoula Adil](https://github.com/KhoulaAdil)
 - [@Uroosha Zehra Abidi](https://github.com/Uroosha4048)
 - [@Nigarish Rehman Sarmad](https://github.com/nigarishrehmansarmad)
+- [@Unaiza Ahmed Khan](https://github.com/unaizaahmedk)
